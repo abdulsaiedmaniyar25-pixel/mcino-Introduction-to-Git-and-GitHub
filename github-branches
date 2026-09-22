@@ -1,0 +1,4 @@
+git branch -vv
+
+ bug-fix-typo c0e7dc3 Fix typo in README
+* main         0969b0b [origin/main] Add merge branches output
